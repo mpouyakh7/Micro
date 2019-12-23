@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega16A"</DEVICE>
+ <WORKING_DIR>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q6\Q6\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q6\Q6\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m16adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q6\Q6\Debug\Q6.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Q6.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Q6.map</FILE>
+  <FILE>Q6.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <EEWrite_ARR1><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q6\Q6\main.asm</FILE><LINE>22</LINE></EEWrite_ARR1>
+  <EERead_ARR1><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q6\Q6\main.asm</FILE><LINE>41</LINE></EERead_ARR1>
+  <delay><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q6\Q6\main.asm</FILE><LINE>57</LINE></delay>
+  <Delay1><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q6\Q6\main.asm</FILE><LINE>59</LINE></Delay1>
+  <Delay2><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q6\Q6\main.asm</FILE><LINE>61</LINE></Delay2>
+  <Delay3><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q6\Q6\main.asm</FILE><LINE>63</LINE></Delay3>
+ </LABELS>
+</ASSEMBLER_INFO>

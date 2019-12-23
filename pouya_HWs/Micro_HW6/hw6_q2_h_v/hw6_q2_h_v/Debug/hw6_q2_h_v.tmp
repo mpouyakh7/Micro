@@ -1,0 +1,53 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega16A"</DEVICE>
+ <WORKING_DIR>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_h_v\hw6_q2_h_v\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_h_v\hw6_q2_h_v\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m16adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_h_v\hw6_q2_h_v\Debug\hw6_q2_h_v.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>hw6_q2_h_v.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>hw6_q2_h_v.map</FILE>
+  <FILE>hw6_q2_h_v.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Start><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_h_v\hw6_q2_h_v\main.asm</FILE><LINE>25</LINE></Start>
+  <Loop><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_h_v\hw6_q2_h_v\main.asm</FILE><LINE>44</LINE></Loop>
+  <LCD_init><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_h_v\hw6_q2_h_v\main.asm</FILE><LINE>321</LINE></LCD_init>
+  <ADC0><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_h_v\hw6_q2_h_v\main.asm</FILE><LINE>65</LINE></ADC0>
+  <lcd_putchar><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_h_v\hw6_q2_h_v\main.asm</FILE><LINE>186</LINE></lcd_putchar>
+  <LCD_wait><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_h_v\hw6_q2_h_v\main.asm</FILE><LINE>303</LINE></LCD_wait>
+  <ADC1><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_h_v\hw6_q2_h_v\main.asm</FILE><LINE>80</LINE></ADC1>
+  <equal1><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_h_v\hw6_q2_h_v\main.asm</FILE><LINE>117</LINE></equal1>
+  <lesser20><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_h_v\hw6_q2_h_v\main.asm</FILE><LINE>133</LINE></lesser20>
+  <greater20><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_h_v\hw6_q2_h_v\main.asm</FILE><LINE>122</LINE></greater20>
+  <ADC0Wait><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_h_v\hw6_q2_h_v\main.asm</FILE><LINE>75</LINE></ADC0Wait>
+  <ADC1Wait><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_h_v\hw6_q2_h_v\main.asm</FILE><LINE>89</LINE></ADC1Wait>
+  <ADC2><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_h_v\hw6_q2_h_v\main.asm</FILE><LINE>94</LINE></ADC2>
+  <ADC2Wait><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_h_v\hw6_q2_h_v\main.asm</FILE><LINE>104</LINE></ADC2Wait>
+  <turnoff><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_h_v\hw6_q2_h_v\main.asm</FILE><LINE>110</LINE></turnoff>
+  <turnon><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_h_v\hw6_q2_h_v\main.asm</FILE><LINE>113</LINE></turnon>
+  <equal2><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_h_v\hw6_q2_h_v\main.asm</FILE><LINE>138</LINE></equal2>
+  <lesser30><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_h_v\hw6_q2_h_v\main.asm</FILE><LINE>147</LINE></lesser30>
+  <greater30><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_h_v\hw6_q2_h_v\main.asm</FILE><LINE>143</LINE></greater30>
+  <print><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_h_v\hw6_q2_h_v\main.asm</FILE><LINE>153</LINE></print>
+  <lcd_command8><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_h_v\hw6_q2_h_v\main.asm</FILE><LINE>164</LINE></lcd_command8>
+  <lcd_command><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_h_v\hw6_q2_h_v\main.asm</FILE><LINE>222</LINE></lcd_command>
+  <LCD_getchar><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_h_v\hw6_q2_h_v\main.asm</FILE><LINE>254</LINE></LCD_getchar>
+  <LCD_getaddr><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_h_v\hw6_q2_h_v\main.asm</FILE><LINE>279</LINE></LCD_getaddr>
+  <LCD_delay><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_h_v\hw6_q2_h_v\main.asm</FILE><LINE>310</LINE></LCD_delay>
+  <LCD_delay_outer><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_h_v\hw6_q2_h_v\main.asm</FILE><LINE>312</LINE></LCD_delay_outer>
+  <LCD_delay_inner><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_h_v\hw6_q2_h_v\main.asm</FILE><LINE>314</LINE></LCD_delay_inner>
+ </LABELS>
+</ASSEMBLER_INFO>

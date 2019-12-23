@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega16A"</DEVICE>
+ <WORKING_DIR>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3-d\Q3-d\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3-d\Q3-d\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m16adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3-d\Q3-d\Debug\Q3-d.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Q3-d.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Q3-d.map</FILE>
+  <FILE>Q3-d.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Start><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3-d\Q3-d\main.asm</FILE><LINE>10</LINE></Start>
+  <WDTSET><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3-d\Q3-d\main.asm</FILE><LINE>25</LINE></WDTSET>
+  <MAIN><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3-d\Q3-d\main.asm</FILE><LINE>18</LINE></MAIN>
+  <WDTReset><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3-d\Q3-d\main.asm</FILE><LINE>30</LINE></WDTReset>
+ </LABELS>
+</ASSEMBLER_INFO>

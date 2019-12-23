@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega16A"</DEVICE>
+ <WORKING_DIR>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q2_a\Q2_a\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q2_a\Q2_a\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m16adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q2_a\Q2_a\Debug\Q2_a.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Q2_a.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Q2_a.map</FILE>
+  <FILE>Q2_a.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q2_a\Q2_a\main.asm</FILE><LINE>21</LINE></start>
+  <LCD_init><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q2_a\Q2_a\main.asm</FILE><LINE>210</LINE></LCD_init>
+  <LCD_wait><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q2_a\Q2_a\main.asm</FILE><LINE>192</LINE></LCD_wait>
+  <LCD_putchar><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q2_a\Q2_a\main.asm</FILE><LINE>75</LINE></LCD_putchar>
+  <lcd_command8><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q2_a\Q2_a\main.asm</FILE><LINE>53</LINE></lcd_command8>
+  <lcd_command><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q2_a\Q2_a\main.asm</FILE><LINE>111</LINE></lcd_command>
+  <LCD_getchar><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q2_a\Q2_a\main.asm</FILE><LINE>143</LINE></LCD_getchar>
+  <LCD_getaddr><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q2_a\Q2_a\main.asm</FILE><LINE>168</LINE></LCD_getaddr>
+  <LCD_delay><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q2_a\Q2_a\main.asm</FILE><LINE>199</LINE></LCD_delay>
+  <LCD_delay_outer><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q2_a\Q2_a\main.asm</FILE><LINE>201</LINE></LCD_delay_outer>
+  <LCD_delay_inner><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q2_a\Q2_a\main.asm</FILE><LINE>203</LINE></LCD_delay_inner>
+ </LABELS>
+</ASSEMBLER_INFO>

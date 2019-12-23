@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega16A"</DEVICE>
+ <WORKING_DIR>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q8\Q8\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q8\Q8\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m16adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q8\Q8\Debug\Q8.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Q8.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Q8.map</FILE>
+  <FILE>Q8.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <BitSet><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q8\Q8\main.asm</FILE><LINE>19</LINE></BitSet>
+  <BitClear><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q8\Q8\main.asm</FILE><LINE>25</LINE></BitClear>
+  <part3><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q8\Q8\main.asm</FILE><LINE>33</LINE></part3>
+ </LABELS>
+</ASSEMBLER_INFO>

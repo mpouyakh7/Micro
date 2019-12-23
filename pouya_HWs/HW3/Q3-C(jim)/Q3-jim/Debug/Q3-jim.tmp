@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega16A"</DEVICE>
+ <WORKING_DIR>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3-jim\Q3-jim\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3-jim\Q3-jim\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m16adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3-jim\Q3-jim\Debug\Q3-jim.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Q3-jim.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Q3-jim.map</FILE>
+  <FILE>Q3-jim.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <program><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3-jim\Q3-jim\main.asm</FILE><LINE>14</LINE></program>
+  <mp><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3-jim\Q3-jim\main.asm</FILE><LINE>18</LINE></mp>
+  <LOOP><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3-jim\Q3-jim\main.asm</FILE><LINE>20</LINE></LOOP>
+  <Delay><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3-jim\Q3-jim\main.asm</FILE><LINE>29</LINE></Delay>
+  <Delay500ms><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3-jim\Q3-jim\main.asm</FILE><LINE>31</LINE></Delay500ms>
+  <Delay100ms><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3-jim\Q3-jim\main.asm</FILE><LINE>33</LINE></Delay100ms>
+  <Delay1ms><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3-jim\Q3-jim\main.asm</FILE><LINE>35</LINE></Delay1ms>
+ </LABELS>
+</ASSEMBLER_INFO>

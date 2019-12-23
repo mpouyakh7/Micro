@@ -1,0 +1,44 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega16A"</DEVICE>
+ <WORKING_DIR>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3_c\Q3_c\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3_c\Q3_c\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m16adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3_c\Q3_c\Debug\Q3_c.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Q3_c.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Q3_c.map</FILE>
+  <FILE>Q3_c.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3_c\Q3_c\main.asm</FILE><LINE>65</LINE></start>
+  <ISR0><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3_c\Q3_c\main.asm</FILE><LINE>102</LINE></ISR0>
+  <lcd_init><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3_c\Q3_c\main.asm</FILE><LINE>356</LINE></lcd_init>
+  <lcd_command><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3_c\Q3_c\main.asm</FILE><LINE>257</LINE></lcd_command>
+  <Loop><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3_c\Q3_c\main.asm</FILE><LINE>99</LINE></Loop>
+  <KeyFind><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3_c\Q3_c\main.asm</FILE><LINE>107</LINE></KeyFind>
+  <LCD><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3_c\Q3_c\main.asm</FILE><LINE>163</LINE></LCD>
+  <twoDigit><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3_c\Q3_c\main.asm</FILE><LINE>174</LINE></twoDigit>
+  <lcd_putchar><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3_c\Q3_c\main.asm</FILE><LINE>221</LINE></lcd_putchar>
+  <end><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3_c\Q3_c\main.asm</FILE><LINE>185</LINE></end>
+  <NEWLINE><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3_c\Q3_c\main.asm</FILE><LINE>192</LINE></NEWLINE>
+  <lcd_command8><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3_c\Q3_c\main.asm</FILE><LINE>199</LINE></lcd_command8>
+  <LCD_getchar><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3_c\Q3_c\main.asm</FILE><LINE>289</LINE></LCD_getchar>
+  <LCD_getaddr><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3_c\Q3_c\main.asm</FILE><LINE>314</LINE></LCD_getaddr>
+  <LCD_wait><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3_c\Q3_c\main.asm</FILE><LINE>338</LINE></LCD_wait>
+  <LCD_delay><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3_c\Q3_c\main.asm</FILE><LINE>345</LINE></LCD_delay>
+  <LCD_delay_outer><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3_c\Q3_c\main.asm</FILE><LINE>347</LINE></LCD_delay_outer>
+  <LCD_delay_inner><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\Q3_c\Q3_c\main.asm</FILE><LINE>349</LINE></LCD_delay_inner>
+ </LABELS>
+</ASSEMBLER_INFO>

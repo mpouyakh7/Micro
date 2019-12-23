@@ -1,0 +1,43 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega16A"</DEVICE>
+ <WORKING_DIR>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw9\hw9\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw9\hw9\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m16adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw9\hw9\Debug\hw9.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>hw9.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>hw9.map</FILE>
+  <FILE>hw9.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw9\hw9\main.asm</FILE><LINE>34</LINE></start>
+  <ISR1><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw9\hw9\main.asm</FILE><LINE>127</LINE></ISR1>
+  <Loop><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw9\hw9\main.asm</FILE><LINE>44</LINE></Loop>
+  <SetOut><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw9\hw9\main.asm</FILE><LINE>47</LINE></SetOut>
+  <SetOut1><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw9\hw9\main.asm</FILE><LINE>50</LINE></SetOut1>
+  <SetOut2><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw9\hw9\main.asm</FILE><LINE>55</LINE></SetOut2>
+  <SetOut3><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw9\hw9\main.asm</FILE><LINE>60</LINE></SetOut3>
+  <SetOut4><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw9\hw9\main.asm</FILE><LINE>65</LINE></SetOut4>
+  <SetOut5><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw9\hw9\main.asm</FILE><LINE>70</LINE></SetOut5>
+  <SetOut6><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw9\hw9\main.asm</FILE><LINE>75</LINE></SetOut6>
+  <SetOut7><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw9\hw9\main.asm</FILE><LINE>80</LINE></SetOut7>
+  <SetOut8><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw9\hw9\main.asm</FILE><LINE>85</LINE></SetOut8>
+  <label><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw9\hw9\main.asm</FILE><LINE>90</LINE></label>
+  <R_INPUT><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw9\hw9\main.asm</FILE><LINE>93</LINE></R_INPUT>
+  <next1><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw9\hw9\main.asm</FILE><LINE>104</LINE></next1>
+  <next3><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw9\hw9\main.asm</FILE><LINE>122</LINE></next3>
+  <next2><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw9\hw9\main.asm</FILE><LINE>114</LINE></next2>
+ </LABELS>
+</ASSEMBLER_INFO>

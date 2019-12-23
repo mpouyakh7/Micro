@@ -1,0 +1,48 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega16A"</DEVICE>
+ <WORKING_DIR>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_jim\hw6_q2_jim\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_jim\hw6_q2_jim\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m16adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_jim\hw6_q2_jim\Debug\hw6_q2_jim.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>hw6_q2_jim.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>hw6_q2_jim.map</FILE>
+  <FILE>hw6_q2_jim.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Start><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_jim\hw6_q2_jim\main.asm</FILE><LINE>18</LINE></Start>
+  <loop><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_jim\hw6_q2_jim\main.asm</FILE><LINE>30</LINE></loop>
+  <LCD_init><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_jim\hw6_q2_jim\main.asm</FILE><LINE>300</LINE></LCD_init>
+  <while><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_jim\hw6_q2_jim\main.asm</FILE><LINE>33</LINE></while>
+  <DISPLAY_ON_LCD10><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_jim\hw6_q2_jim\main.asm</FILE><LINE>63</LINE></DISPLAY_ON_LCD10>
+  <DISPLAY_ON_LCD20><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_jim\hw6_q2_jim\main.asm</FILE><LINE>71</LINE></DISPLAY_ON_LCD20>
+  <DISPLAY_ON_LCD30><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_jim\hw6_q2_jim\main.asm</FILE><LINE>80</LINE></DISPLAY_ON_LCD30>
+  <DISPLAY_ON_LCD40><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_jim\hw6_q2_jim\main.asm</FILE><LINE>89</LINE></DISPLAY_ON_LCD40>
+  <DISPLAY_ON_LCD50><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_jim\hw6_q2_jim\main.asm</FILE><LINE>98</LINE></DISPLAY_ON_LCD50>
+  <DISPLAY_ON_LCD60><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_jim\hw6_q2_jim\main.asm</FILE><LINE>107</LINE></DISPLAY_ON_LCD60>
+  <DISPLAY_ON_LCD70><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_jim\hw6_q2_jim\main.asm</FILE><LINE>116</LINE></DISPLAY_ON_LCD70>
+  <DISPLAY_ON_LCD80><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_jim\hw6_q2_jim\main.asm</FILE><LINE>125</LINE></DISPLAY_ON_LCD80>
+  <lcd_putchar><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_jim\hw6_q2_jim\main.asm</FILE><LINE>165</LINE></lcd_putchar>
+  <LCD_wait><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_jim\hw6_q2_jim\main.asm</FILE><LINE>282</LINE></LCD_wait>
+  <DISPLAY_ON_LCD100><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_jim\hw6_q2_jim\main.asm</FILE><LINE>134</LINE></DISPLAY_ON_LCD100>
+  <lcd_command8><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_jim\hw6_q2_jim\main.asm</FILE><LINE>143</LINE></lcd_command8>
+  <lcd_command><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_jim\hw6_q2_jim\main.asm</FILE><LINE>201</LINE></lcd_command>
+  <LCD_getchar><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_jim\hw6_q2_jim\main.asm</FILE><LINE>233</LINE></LCD_getchar>
+  <LCD_getaddr><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_jim\hw6_q2_jim\main.asm</FILE><LINE>258</LINE></LCD_getaddr>
+  <LCD_delay><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_jim\hw6_q2_jim\main.asm</FILE><LINE>289</LINE></LCD_delay>
+  <LCD_delay_outer><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_jim\hw6_q2_jim\main.asm</FILE><LINE>291</LINE></LCD_delay_outer>
+  <LCD_delay_inner><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\hw6_q2_jim\hw6_q2_jim\main.asm</FILE><LINE>293</LINE></LCD_delay_inner>
+ </LABELS>
+</ASSEMBLER_INFO>

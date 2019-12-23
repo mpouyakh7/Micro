@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega16A"</DEVICE>
+ <WORKING_DIR>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\7_micro\7_micro\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\7_micro\7_micro\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m16adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\7_micro\7_micro\Debug\7_micro.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>7_micro.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>7_micro.map</FILE>
+  <FILE>7_micro.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Start><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\7_micro\7_micro\main.asm</FILE><LINE>22</LINE></Start>
+  <EXT_INT0><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\7_micro\7_micro\main.asm</FILE><LINE>59</LINE></EXT_INT0>
+  <Loop><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\7_micro\7_micro\main.asm</FILE><LINE>56</LINE></Loop>
+  <keyFind><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\7_micro\7_micro\main.asm</FILE><LINE>73</LINE></keyFind>
+  <Send><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\7_micro\7_micro\main.asm</FILE><LINE>62</LINE></Send>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega16A"</DEVICE>
+ <WORKING_DIR>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\HW4_Q1-a\HW4_Q1-a\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\HW4_Q1-a\HW4_Q1-a\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m16adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\HW4_Q1-a\HW4_Q1-a\Debug\HW4_Q1-a.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>HW4_Q1-a.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>HW4_Q1-a.map</FILE>
+  <FILE>HW4_Q1-a.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\HW4_Q1-a\HW4_Q1-a\main.asm</FILE><LINE>14</LINE></start>
+  <ISR1><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\HW4_Q1-a\HW4_Q1-a\main.asm</FILE><LINE>32</LINE></ISR1>
+  <loop><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\HW4_Q1-a\HW4_Q1-a\main.asm</FILE><LINE>28</LINE></loop>
+  <LED_ON><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\HW4_Q1-a\HW4_Q1-a\main.asm</FILE><LINE>41</LINE></LED_ON>
+  <LED_OFF><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\HW4_Q1-a\HW4_Q1-a\main.asm</FILE><LINE>46</LINE></LED_OFF>
+  <mp><FILE>C:\Users\mpouya\Desktop\temre 8\microprocessor\Micro_HWs\HW4_Q1-a\HW4_Q1-a\main.asm</FILE><LINE>37</LINE></mp>
+ </LABELS>
+</ASSEMBLER_INFO>
